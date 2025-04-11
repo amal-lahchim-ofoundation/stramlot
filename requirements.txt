@@ -1,3 +1,4 @@
+python-dotenv
 streamlit
 faster-whisper
 pyannote.audio
@@ -5,3 +6,4 @@ torch
 torchaudio
 pydub
 requests
+numpy
